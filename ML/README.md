@@ -1,1 +1,1 @@
-#Makine öğrenmesi dersinde yaptığım uygulamaları burada paylaşıyorum.
+# Makine öğrenmesi dersinde yaptığım uygulamaları burada paylaşıyorum.
